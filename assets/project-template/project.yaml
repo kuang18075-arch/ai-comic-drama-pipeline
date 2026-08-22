@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "project_name": "",
+  "target_episode_count": 60,
+  "episode_duration_seconds": 90,
+  "video_model": "Seedance 2.0 Mini",
+  "current_stage": 1,
+  "current_episode": null,
+  "current_segment": null,
+  "locked": {
+    "central_premise": "",
+    "protagonist_desire": "",
+    "central_conflict": "",
+    "final_truth": "",
+    "ending_direction": ""
+  },
+  "change_log": []
+}
